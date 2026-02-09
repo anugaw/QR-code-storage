@@ -68,13 +68,5 @@ python main.py
 - [ ] **Customization Options:** Add options for users to customize QR code colors, error correction levels, etc.
 - [ ] **GPU Acceleration:** Implement support for GPU acceleration to enhance encoding and decoding performance.
 
-### Contributing
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-<div align="center">
-
-## Please support the development by donating.
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aakhil)
 
 </div>
